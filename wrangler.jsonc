@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "cwzem",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "cwzem",
+      "database_id": "8ba4dee1-6985-4434-9ae9-4aa9a3aa3b61"
+    }
+  ]
+}
